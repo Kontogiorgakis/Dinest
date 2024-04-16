@@ -20,7 +20,10 @@ An intuitive restaurant reservation application designed for seamless user exper
 
 ## Lo - Fi Smarthphone Samples
 <div style="display: flex;  gap: 40px;">
-    <img src="Lo-Fi\01_Mobile_Reservations.png" height="500">
+    <div style="text-align: center; height: 500px;">
+        <img src="Lo-Fi\01_Mobile_Reservations.png" >
+        <figcaption>Home Screen - Reservations</figcaption>
+    </div>
     <img src="Lo-Fi\02_Mobile_Add_Reservation.png" height="500">
     <img src="Lo-Fi\04_Mobile_QR_Scanner.png" height="500">
     <img src="Lo-Fi\05_Mobile_Quick_Booking.png" height="500">
