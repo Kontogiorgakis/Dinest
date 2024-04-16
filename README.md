@@ -5,23 +5,18 @@ A sophisticated restaurant table reservation system design using Figma Tool
 
 ## Introduction
 
-The Restaurant Reservation App is a convenient and user-friendly application that allows users to make reservations at their favorite restaurants. With this app, users can easily browse through a list of restaurants, view their menus, and book a table for their desired date and time.
+An intuitive restaurant reservation application designed for seamless user experience. Leveraging location-based services, users can efficiently browse and book reservations at a variety of restaurants. Deployable across both mobile and desktop platforms, the application was developed as part of the HY 364 course, incorporating principles of user interface design and usability testing. The design has been developed with Lo-Fi and Hi-Fi style.
 
 ## Features
 
 - Browse through a list of restaurants
 - View restaurant details, including location, contact information, and opening hours
 - Explore restaurant menus and special offers
+- Leave a review about your experience on the restaurant
 - Make a reservation for a specific date and time
+- Edit or cancel your reservation
 - Receive confirmation and reminders for upcoming reservations
 
-## Installation
-
-To use the Restaurant Reservation App, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/restaurant-reservation-app.git`
-2. Install the required dependencies: `npm install`
-3. Start the application: `npm start`
 
 ## Screenshots
 
