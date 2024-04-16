@@ -35,9 +35,15 @@ An intuitive restaurant reservation application designed for seamless user exper
 | Quick Booking Scanner | Quick Booking Details | Profile Notifications | |
 
 ## Lo-Fi Desktop Samples
-| ![Main Page - Search](Lo-Fi/Main_Page_#1.png) | ![Add Reservation](Lo-Fi/02_Mobile_Add_Reservation.png) | ![QR Scanner](Lo-Fi/04_Mobile_QR_Scanner.png) | ![Quick Booking](Lo-Fi/05_Mobile_Quick_Booking.png) | ![Success Booking](Lo-Fi/06_Mobile_Success_Booking.png) |
-|:---:|:---:|:---:|:---:|:---:|
-| Home Screen - Reservations | Add Reservation | QR Scanner | Quick Booking | Success Booking |
+| ![Main Page - Search](Lo-Fi/Main_Page_1.png) | ![Search Page](Lo-Fi/Search_Page.png) |
+|:---:|:---:|
+| Main Page - Search | Search Page |
+
+| ![Book a Table](Lo-Fi/Book_A_Table.png) | ![User Settings](Lo-Fi/User_Settings.png) |
+|:---:|:---:|
+| Book a Table | User Settings |
+
+
 
 ## Hi-Fi Desktop Samples
 
