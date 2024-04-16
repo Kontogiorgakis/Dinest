@@ -46,7 +46,17 @@ An intuitive restaurant reservation application designed for seamless user exper
 
 
 ## Hi-Fi Desktop Samples
+| ![Main Page - Search](Hi-Fi/01_mainpage_search_places1.png) | ![Search Page](Hi-Fi/06_searchpage_places.png) |
+|:---:|:---:|
+| Main Page - Search | Search Page |
 
+| ![Book a Table](Hi-Fi/07_book_table.png) | ![User Settings](Hi-Fi/10_user_settings.png) |
+|:---:|:---:|
+| Book a Table | User Settings |
+
+| ![Preview Booking](Hi-Fi/08_preview_booking.png) | ![Edit/Cancel Reservation](Hi-Fi/13_user_reservations.png) |
+|:---:|:---:|
+| Preview Booking | Edit/Cancel Reservation |
 
 
 ## Contributing
