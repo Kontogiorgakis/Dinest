@@ -20,17 +20,17 @@ An intuitive restaurant reservation application designed for seamless user exper
 
 ## Lo-Fi Smartphone Samples
 
-| ![Home Screen - Reservations](Lo-Fi\01_Mobile_Reservations.png) | ![Add Reservation](Lo-Fi\02_Mobile_Add_Reservation.png) | ![QR Scanner](Lo-Fi\04_Mobile_QR_Scanner.png) | ![Quick Booking](Lo-Fi\05_Mobile_Quick_Booking.png) | ![Success Booking](Lo-Fi\06_Mobile_Success_Booking.png) |
+| ![Home Screen - Reservations](Lo-Fi/01_Mobile_Reservations.png) | ![Add Reservation](Lo-Fi/02_Mobile_Add_Reservation.png) | ![QR Scanner](Lo-Fi/04_Mobile_QR_Scanner.png) | ![Quick Booking](Lo-Fi/05_Mobile_Quick_Booking.png) | ![Success Booking](Lo-Fi/06_Mobile_Success_Booking.png) |
 |:---:|:---:|:---:|:---:|:---:|
 | Home Screen - Reservations | Add Reservation | QR Scanner | Quick Booking | Success Booking |
 
 ## Hi-Fi Smartphone Samples
 
-| ![Home Screen - Reservations](Hi-Fi\01_mobile_homepage_reservations.png) | ![Active Reservations](Hi-Fi\02_mobile_homepage_active_reservations.png) | ![Reservation Details](Hi-Fi\03_mobile_reservation_details.png) | ![Reservation Review](Hi-Fi\05_mobile_reservation_review.png) | ![Quick Booking](Hi-Fi\07_mobile_quick_booking.png) |
+| ![Home Screen - Reservations](Hi-Fi/01_mobile_homepage_reservations.png) | ![Active Reservations](Hi-Fi/02_mobile_homepage_active_reservations.png) | ![Reservation Details](Hi-Fi/03_mobile_reservation_details.png) | ![Reservation Review](Hi-Fi/05_mobile_reservation_review.png) | ![Quick Booking](Hi-Fi/07_mobile_quick_booking.png) |
 |:---:|:---:|:---:|:---:|:---:|
 | Home Screen - Reservations | Active Reservations | Reservation Details | Reservation Review | Quick Booking |
 
-| ![Quick Booking Scanner](Hi-Fi\08_mobile_quick_booking_scanner.png) | ![Quick Booking Details](Hi-Fi\09_mobile_quick_booking_details.png) | ![Profile Notifications](Hi-Fi\11_mobile_profile_notifications.png) | |
+| ![Quick Booking Scanner](Hi-Fi/08_mobile_quick_booking_scanner.png) | ![Quick Booking Details](Hi-Fi/09_mobile_quick_booking_details.png) | ![Profile Notifications](Hi-Fi/11_mobile_profile_notifications.png) | |
 |:---:|:---:|:---:|---|
 | Quick Booking Scanner | Quick Booking Details | Profile Notifications | |
 
