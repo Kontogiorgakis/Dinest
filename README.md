@@ -8,7 +8,7 @@ A sophisticated restaurant table reservation system design using Figma Tool
 ## Introduction
 
 
-An intuitive restaurant reservation application designed for seamless user experience. Leveraging location-based services, users can efficiently browse and book reservations at a variety of restaurants. Deployable across both mobile and desktop platforms, the application was developed as part of the HY 364 course, incorporating principles of user interface design and usability testing. The design has been developed with Lo-Fi and Hi-Fi style.
+An intuitive restaurant reservation application designed for seamless user experience. Leveraging location-based services, users can efficiently browse and book reservations at a variety of restaurants. Deployable across both mobile and desktop platforms, the application design was developed as part of the HY 364 course, incorporating principles of user interface design and usability testing. The design has been developed with Lo-Fi and Hi-Fi style.
 
 
 ## Features
