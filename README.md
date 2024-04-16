@@ -32,8 +32,15 @@ An intuitive restaurant reservation application designed for seamless user exper
 
 
 <div style="display: flex;  gap: 40px;">
-    <img src="Hi-Fi/01_mobile_homepage_reservations.png" height="700">
-    <img src="Hi-Fi/02_mobile_homepage_active_reservations.png" height="700">
+    <img src="Hi-Fi\01_mobile_homepage_reservations.png" height="500">
+    <img src="Hi-Fi\02_mobile_homepage_active_reservations.png" height="500">
+    <img src="Hi-Fi\03_mobile_reservation_details.png" height="500">
+    <img src="Hi-Fi\05_mobile_reservation_review.png" height="500">
+    <img src="Hi-Fi\05_mobile_reservation_review.png" height="500">
+    <img src="Hi-Fi\07_mobile_quick_booking.png" height="500">
+    <img src="Hi-Fi\08_mobile_quick_booking_scanner.png" height="500">
+    <img src="Hi-Fi\09_mobile_quick_booking_details.png" height="500">
+    <img src="Hi-Fi\11_mobile_profile_notifications.png" height="500">
 </div>
 
 
