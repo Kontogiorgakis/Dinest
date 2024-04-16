@@ -18,11 +18,25 @@ An intuitive restaurant reservation application designed for seamless user exper
 - Receive confirmation and reminders for upcoming reservations
 
 
-## Screenshots
+## Lo - Fi Smarthphone Samples
+<div style="display: flex;  gap: 20px;">
+    <img src="Lo-Fi\01_Mobile_Reservations.png" height="600" width="800">
+    <img src="Lo-Fi\02_Mobile_Add_Reservation.png" height="600" width="800">
+    <img src="Lo-Fi\03_Mobile_Reservation_Details.png" height="600" width="800">
+    <img src="Lo-Fi\04_Mobile_QR_Scanner.png" height="600" width="800">
+    <img src="Lo-Fi\05_Mobile_Quick_Booking.png" height="600" width="800">
+    <img src="Lo-Fi\06_Mobile_Success_Booking.png" height="600" width="800">
+</div>
 
-![Home Screen](Hi-Fi/01_mobile_homepage_reservations.png)
 
-![Restaurant Details](images/restaurant_details.png)
+## Hi - Fi Smarthphone Samples
+
+
+<div style="display: flex;  gap: 40px;">
+    <img src="Hi-Fi/01_mobile_homepage_reservations.png" height="700">
+    <img src="Hi-Fi/02_mobile_homepage_active_reservations.png" height="700">
+</div>
+
 
 ## Contributing
 
