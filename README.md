@@ -20,66 +20,21 @@ An intuitive restaurant reservation application designed for seamless user exper
 
 ## Lo-Fi Smartphone Samples
 
-<div style="display: flex; gap: 40px;">
-    <div style="text-align: center;">
-        <img src="Lo-Fi\01_Mobile_Reservations.png" height="500">
-        <figcaption>Home Screen - Reservations</figcaption>
-    </div>
-    <div style="text-align: center;">
-        <img src="Lo-Fi\02_Mobile_Add_Reservation.png" height="500">
-        <figcaption>Add Reservation</figcaption>
-    </div>
-    <div style="text-align: center;">
-        <img src="Lo-Fi\04_Mobile_QR_Scanner.png" height="500">
-        <figcaption>QR Scanner</figcaption>
-    </div>
-    <div style="text-align: center;">
-        <img src="Lo-Fi\05_Mobile_Quick_Booking.png" height="500">
-        <figcaption>Quick Booking</figcaption>
-    </div>
-    <div style="text-align: center;">
-        <img src="Lo-Fi\06_Mobile_Success_Booking.png" height="500">
-        <figcaption>Success Booking</figcaption>
-    </div>
-</div>
-
+| ![Home Screen - Reservations](Lo-Fi\01_Mobile_Reservations.png) | ![Add Reservation](Lo-Fi\02_Mobile_Add_Reservation.png) | ![QR Scanner](Lo-Fi\04_Mobile_QR_Scanner.png) | ![Quick Booking](Lo-Fi\05_Mobile_Quick_Booking.png) | ![Success Booking](Lo-Fi\06_Mobile_Success_Booking.png) |
+|:---:|:---:|:---:|:---:|:---:|
+| Home Screen - Reservations | Add Reservation | QR Scanner | Quick Booking | Success Booking |
 
 ## Hi-Fi Smartphone Samples
 
-<div style="display: flex; gap: 40px;">
-    <div style="text-align: center;">
-        <img src="Hi-Fi\01_mobile_homepage_reservations.png" height="500">
-        <figcaption>Home Screen - Reservations</figcaption>
-    </div>
-    <div style="text-align: center;">
-        <img src="Hi-Fi\02_mobile_homepage_active_reservations.png" height="500">
-        <figcaption>Active Reservations</figcaption>
-    </div>
-    <div style="text-align: center;">
-        <img src="Hi-Fi\03_mobile_reservation_details.png" height="500">
-        <figcaption>Reservation Details</figcaption>
-    </div>
-    <div style="text-align: center;">
-        <img src="Hi-Fi\05_mobile_reservation_review.png" height="500">
-        <figcaption>Reservation Review</figcaption>
-    </div>
-    <div style="text-align: center;">
-        <img src="Hi-Fi\07_mobile_quick_booking.png" height="500">
-        <figcaption>Quick Booking</figcaption>
-    </div>
-    <div style="text-align: center;">
-        <img src="Hi-Fi\08_mobile_quick_booking_scanner.png" height="500">
-        <figcaption>Quick Booking Scanner</figcaption>
-    </div>
-    <div style="text-align: center;">
-        <img src="Hi-Fi\09_mobile_quick_booking_details.png" height="500">
-        <figcaption>Quick Booking Details</figcaption>
-    </div>
-    <div style="text-align: center;">
-        <img src="Hi-Fi\11_mobile_profile_notifications.png" height="500">
-        <figcaption>Profile Notifications</figcaption>
-    </div>
-</div>
+| ![Home Screen - Reservations](Hi-Fi\01_mobile_homepage_reservations.png) | ![Active Reservations](Hi-Fi\02_mobile_homepage_active_reservations.png) | ![Reservation Details](Hi-Fi\03_mobile_reservation_details.png) | ![Reservation Review](Hi-Fi\05_mobile_reservation_review.png) | ![Quick Booking](Hi-Fi\07_mobile_quick_booking.png) |
+|:---:|:---:|:---:|:---:|:---:|
+| Home Screen - Reservations | Active Reservations | Reservation Details | Reservation Review | Quick Booking |
+
+| ![Quick Booking Scanner](Hi-Fi\08_mobile_quick_booking_scanner.png) | ![Quick Booking Details](Hi-Fi\09_mobile_quick_booking_details.png) | ![Profile Notifications](Hi-Fi\11_mobile_profile_notifications.png) | |
+|:---:|:---:|:---:|---|
+| Quick Booking Scanner | Quick Booking Details | Profile Notifications | |
+
+
 
 
 
