@@ -1,7 +1,7 @@
 # Dinest
 A sophisticated restaurant table reservation system design using Figma Tool
 
-![App Logo](images/app_logo.png)
+![App Logo](Hi-Fi/Logo.png)
 
 ## Introduction
 
@@ -25,7 +25,7 @@ To use the Restaurant Reservation App, follow these steps:
 
 ## Screenshots
 
-![Home Screen](images/home_screen.png)
+![Home Screen](Hi-Fi/01_mobile_homepage_reservations.png)
 
 ![Restaurant Details](images/restaurant_details.png)
 
