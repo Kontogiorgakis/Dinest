@@ -71,6 +71,11 @@ An intuitive restaurant reservation application designed for seamless user exper
 | Preview Booking | Edit/Cancel Reservation |
 
 
+## Evaluation
+The heuristic evaluation of the application design was done in the context of the 364 lesson by various users who, after our guidance, provided their conclusions. You can find the results in the report
+
+Contributions are welcome! If you have any suggestions or improvements for the Restaurant Reservation App, please submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
+
 ## Contributing
 
 
