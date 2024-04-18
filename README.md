@@ -78,7 +78,7 @@ The heuristic evaluation of the application design was done in the context of th
 ## Contributing
 
 
-Contributions are welcome! If you have any suggestions or improvements for the Restaurant Reservation App, please submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
+Contributions are welcome! If you have any suggestions or improvements for Dinest, please submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
 
 ## License
