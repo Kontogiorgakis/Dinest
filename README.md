@@ -72,7 +72,7 @@ An intuitive restaurant reservation application designed for seamless user exper
 
 
 ## Evaluation
-The heuristic evaluation of the application design was done in the context of the 364 lesson by various users who, after our guidance, provided their conclusions. You can find the results in the report
+The heuristic evaluation of the application design was done in the context of the HY364 course by various users who, after our guidance, provided their conclusions. You can find the results in the report
 
 
 ## Contributing
